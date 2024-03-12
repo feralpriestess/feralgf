@@ -87,6 +87,8 @@ button:hover,
   filter: brightness(90%);
 }
 
+.button.button-throne
+
 /* Amazon */
 .button.button-amazon {
   color: #000000;
@@ -98,58 +100,30 @@ button:hover,
   filter: brightness(90%);
 }
 
-/* Amazon Music */
-.button.button-amazon-music {
-  color: #000000;
-  background-color: #25D1DA;
-}
-.button.button-amazon-music:hover,
-.button.button-amazon-music:focus {
-  filter: brightness(90%);
-}
 
-/* Apple App Store */
-.button.button-appstore {
+
+/* Fetlife */
+.button.button-fetlife {
   color: #FFFFFF;
   background-color: #000000;
   border: 1px solid #FFFFFF;
 }
-.button.button-appstore:hover,
-.button.button-appstore:focus {
+.button.button-fetlife:hover,
+.button.button-fetlife:focus {
   filter: brightness(90%);
 }
 
-/* Apple Music */
-.button.button-apple-music {
-  color: #ffffff;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
-}
-.button.button-apple-music:hover,
-.button.button-apple-music:focus {
-  filter: brightness(90%);
-}
 
 /* Apple Music Alt */
-.button.button-apple-music-alt {
+.button.button-throne {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #FB5C74, #FA233B);
+  background-image: linear-gradient(to bottom, #fb5cd9, #2f10db);
 }
-.button.button-apple-music-alt:hover,
-.button.button-apple-music-alt:focus {
+.button.button-throne:hover,
+.button.button-throne:focus {
   filter: brightness(90%);
 }
 
-/* Apple Podcasts */
-.button.button-apple-podcasts {
-  color: #ffffff;
-  background-color: #000000;
-  border: 1px solid #FFFFFF;
-}
-.button.button-apple-podcasts:hover,
-.button.button-apple-podcasts:focus {
-  filter: brightness(90%);
-}
 
 /* Apple Podcasts Alt */
 .button.button-apple-podcasts-alt {
