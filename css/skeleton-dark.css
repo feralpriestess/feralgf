@@ -95,6 +95,10 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial,
     sans-serif;
+    background-image: url("https://github.com/feralpriestess/feralgf/blob/main/images/hex-blugreen-bg.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 /* Typography
