@@ -4,12 +4,7 @@
 The DIY self-hosted LinkTree alternative. LittleLink has more than 100 branded button styles you can easily use, with more regularly added by our community in this repo and in [LittleLink Extended](https://github.com/sethcottle/littlelink-extended). 
 
 ---
-### 🌞 Themes and Accessibility
-LittleLink offers both `light` and `dark` themes right out of the box. If the default color schemes don't match your preference, you can easily customize them by updating the values in `skeleton-light.css` or `skeleton-dark.css`. For those who prefer an automatic adjustment, setting your CSS to `skeleton-auto.css` enables the theme to adapt based on the device's system settings. To enhance visual accessibility in both `light` and `dark` modes, buttons lacking sufficient contrast with the background are outlined with an inverse stroke to ensure visibility. While LittleLink emphasizes accessibility, it's important to acknowledge that not all brands incorporated into LittleLink achieve this standard. Branded buttons that come into LittleLink always retain the original essence of the brand and some branded buttons might fall short of optimal accessibility in terms of contrast.
 
-![Theme](https://cdn.cottle.cloud/littlelink/themesupport.gif)
-
----
 ### 🥇 Performance
 
 ![Performance](https://cdn.cottle.cloud/littlelink/PerformanceBlock.svg)
@@ -22,15 +17,6 @@ LittleLink epitomizes simplicity and minimalism. When evaluating the [LittleLink
 ![Publish](https://cdn.cottle.cloud/littlelink/Deployment.svg)
 
 No need for gulp, npm, or anything else to make LittleLink work—it uses the bare essentials. You can automatically fork and deploy LittleLink with [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or [Amplify](https://aws.amazon.com/amplify) using the button below. LittleLink is also easy to host through [GitHub Pages](https://pages.github.com/) or on your home lab server, CDN, or other frontend hosting services. To edit, all you need is a little basic HTML knowledge to add a link to the exisiting buttons or you can create your own. See our [adding custom buttons to your own fork wiki](https://github.com/sethcottle/littlelink/wiki/Adding-custom-buttons-to-your-own-fork). It's simple, promise. 🤞
-
----
-##### One-Click Deployments
-
-[![Deploy to Vercel](https://cdn.cottle.cloud/littlelink/button-deploy-vercel.svg)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsethcottle%2Flittlelink&project-name=littlelink&repository-name=littlelink)
-
-[![Deploy to Netlify](https://cdn.cottle.cloud/littlelink/button-deploy-netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sethcottle/littlelink)
-
-[![Deploy to Amplify](https://cdn.cottle.cloud/littlelink/button-deploy-amplify.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/sethcottle/littlelink)
 
 ---
 
