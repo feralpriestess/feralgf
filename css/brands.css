@@ -310,7 +310,15 @@ button:hover,
   filter: brightness(90%);
 }
 
-
+ /* MyAnimeList */
+.button.button-myanimelist {
+  color: #000000;
+  background-color: #ffffff;
+  border: 1px solid #000000; 
+}
+.button.button-myanimelist:hover,
+.button.button-myanimelist:focus {
+  filter: brightness(90%) }
 
 /* OnlyFans */
 .button.button-onlyfans {
